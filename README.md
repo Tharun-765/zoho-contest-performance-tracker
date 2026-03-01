@@ -29,13 +29,13 @@ https://creatorapp.zoho.in/tharun2410649_ssn/contest-performance-tracker/
 ##  Screenshots
 (Screenshots attached below)
 ## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.png)
 
 ## Contest Participation Form
-![Form](form.png)
+![Form](form.png.png)
 
 ## Reports
-![Reports](reports.png)
+![Reports](reports.png.png)
 
 ## Performance Trends
-![Trend](trend.png)
+![Trend](trend.png.png)
