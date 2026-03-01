@@ -1,255 +1,163 @@
-🚀 Contest Performance Tracker – Zoho Creator Application
-📌 Project Overview
+# 📊 Contest Performance Tracker  
+### A Zoho Creator Based Low-Code Application
 
-The Contest Performance Tracker is a comprehensive web-based application developed using the Zoho Creator Low-Code Platform. This system is designed to efficiently track, analyze, and visualize competitive programming contest performance.
+---
 
-The application enables users to monitor contest participation history, problem-solving statistics, ranking trends, preparation strategies, and submission outcomes — all through an interactive dashboard and structured data reports.
+## 📌 Project Overview
 
-This project demonstrates practical implementation of:
+The **Contest Performance Tracker** is a low-code web application developed using **Zoho Creator** to manage and analyze competitive programming performance.
 
-Low-code application development
+The system enables users to track contest participation, monitor problem-solving statistics, analyze score trends, and maintain structured preparation plans.
 
-Structured database design
+This application demonstrates practical implementation of **Low-Code Application Development** concepts using Zoho Creator's cloud platform.
 
-Analytical reporting
+---
 
-Performance tracking systems
+## 🎯 Problem Statement
 
-Workflow automation using Deluge scripting
+Competitive programmers often struggle to:
 
-🎯 Objectives
+- Track contest performance over time
+- Analyze score trends and rankings
+- Monitor submission status (Solved / Partial / Failed)
+- Plan structured contest preparation
+- Maintain centralized performance records
 
-The primary objectives of this application are:
+This application provides a unified dashboard-based solution to solve these challenges.
 
-To centralize contest participation data
+---
 
-To analyze problem-solving efficiency
+## 🛠️ Platform & Technologies Used
 
-To track ranking improvements over time
+- **Zoho Creator (Low-Code Platform)**
+- Deluge Scripting
+- Built-in Analytics & Reports
+- Cloud Deployment (Zoho Hosting)
 
-To monitor submission accuracy and status
+---
 
-To provide visual performance insights via dashboards
+## 🧩 Application Modules
 
-To assist in preparation planning for future contests
+### 1️⃣ Dashboard
+- Displays total problems solved
+- Total contests participated
+- Total preparation plans
+- Submission status summary
+- Score distribution graphs
+- Rank analysis visualization
 
-🛠 Platform & Technologies Used
-🔹 Zoho Creator (Low-Code Platform)
+### 2️⃣ Contest Participation
+- Add upcoming contest details
+- Store contest name, platform, duration, and score
+- Track participation history
 
-Used to design forms, workflows, dashboards, and reports with minimal manual coding.
+### 3️⃣ Contest Preparation Plan
+- Create structured preparation schedules
+- Track preparation progress
+- Maintain improvement roadmap
 
-🔹 Deluge Scripting
+### 4️⃣ Past Contest Performance
+- Record performance statistics
+- Store rankings and score
+- Identify weak areas
 
-Implemented for:
+### 5️⃣ Performance Trends
+- Visual representation of score growth
+- Performance comparison over time
+- Trend-based analysis
 
-Custom calculations
+### 6️⃣ Participants Management
+- Maintain participant details
+- Store performance records per user
 
-Automated field updates
+---
 
-Data validation
+## 📊 Key Features
 
-Business logic processing
+✔ Interactive Dashboard  
+✔ Real-time Data Tracking  
+✔ Graphical Reports & Analytics  
+✔ Role-based Access Control  
+✔ Cloud Hosted Application  
+✔ Structured Data Management  
 
-🔹 Built-in Reports & Analytics
+---
 
-Used to generate:
+## 🏗️ Application Architecture
+User → Zoho Creator UI → Forms → Reports → Dashboard Analytics
 
-Tabular reports
+- Data entered via Forms  
+- Stored in Zoho Creator database  
+- Processed using Deluge logic  
+- Visualized through reports and dashboard widgets  
 
-Summary reports
+---
 
-Trend analysis charts
+## 🌐 Live Application
 
-Dashboard visualizations
-
-🗂 Database Structure & Forms
-
-The application is structured using multiple relational forms to ensure organized data management.
-
-1️⃣ Contest Participation
-
-Stores detailed contest information including:
-
-Contest name
-
-Platform
-
-Date
-
-Rank achieved
-
-Problems solved
-
-Total score
-
-Performance rating
-
-2️⃣ Contest Preparation
-
-Tracks preparation metrics such as:
-
-Practice hours
-
-Topics covered
-
-Mock contest participation
-
-Difficulty levels attempted
-
-3️⃣ Past Contest Performance
-
-Maintains historical performance data for:
-
-Rank comparison
-
-Improvement measurement
-
-Weak area identification
-
-4️⃣ Performance Trend
-
-Automatically generated trend analysis including:
-
-Ranking progression
-
-Accuracy trends
-
-Consistency metrics
-
-Graph-based analytics
-
-5️⃣ Participants
-
-Stores participant details including:
-
-Name
-
-Registration ID
-
-Contact details
-
-Participation records
-
-📊 Key Features
-📈 Interactive Dashboard
-
-Visual analytics representation
-
-Contest summary overview
-
-Performance comparison charts
-
-Real-time statistics display
-
-📝 Contest Participation Tracking
-
-Detailed contest logging
-
-Platform-wise tracking
-
-Ranking history maintenance
-
-📊 Problem-Solving Statistics
-
-Total problems solved
-
-Accuracy rate
-
-Success vs failure ratio
-
-Difficulty-level distribution
-
-📉 Performance Trend Reports
-
-Ranking improvement over time
-
-Preparation vs performance correlation
-
-Monthly / contest-wise analysis
-
-🔎 Submission Status Monitoring
-
-Accepted / Wrong Answer / TLE tracking
-
-Submission frequency monitoring
-
-Efficiency tracking
-
-🔐 Live Application Link
-
+🔗 **Zoho Live Application:**  
 https://creatorapp.zoho.in/tharun2410649_ssn/contest-performance-tracker/
 
-Note:
-The live application requires Zoho login credentials for access.
-Screenshots below demonstrate the complete functionality and user interface of the system.
+> Note: The live application requires Zoho login access.  
+> Screenshots below demonstrate full functionality.
 
-📷 Application Screenshots
-🏠 Dashboard
+---
 
-📝 Contest Participation Form
+## 💻 GitHub Repository
 
-📊 Reports
+🔗 https://github.com/Tharun-765/zoho-contest-performance-tracker
 
-📈 Performance Trends
+---
 
-💡 System Workflow
+## 📷 Application Screenshots
 
-User enters contest participation details.
+### 📌 Dashboard
+![Dashboard](dashboard.png.png)
 
-Data is validated using Deluge scripts.
+### 📌 Contest Participation Form
+![Form](form.png.png)
 
-Performance metrics are calculated automatically.
+### 📌 Reports & Analytics
+![Reports](reports.png.png)
 
-Reports and dashboards update dynamically.
+### 📌 Performance Trend Visualization
+![Trend](trend.png.png)
 
-Trend analytics provide insights for future improvement.
+---
 
-🧠 Learning Outcomes
+## 🔐 Deployment Details
 
-Through this project, the following skills were developed:
+- Hosted on Zoho Creator Cloud Platform
+- Trial Edition Deployment
+- Secure Authentication via Zoho Login
+- Accessible via Live Application URL
 
-Low-code application architecture design
+---
 
-Relational database modeling
+## 📚 Learning Outcomes
 
-Data visualization and reporting
+Through this project, the following concepts were applied:
 
-Business logic implementation using Deluge
+- Low-Code Development Principles
+- Cloud-Based Application Deployment
+- Role & Permission Management
+- Dashboard Design & Data Visualization
+- Structured Data Modeling
+- SaaS Platform Utilization
 
-Performance analytics structuring
+---
 
-Dashboard design and UX flow optimization
+## 👨‍💻 Author
 
-📌 Use Case
+**Tharun B**  
+B.E Computer Science Engineering  
+UCSV305 – SDL II  
+No Code / Low Code App Development  
 
-This application can be used by:
+---
 
-Competitive programming students
+## 🏁 Conclusion
 
-Coding club coordinators
+The Contest Performance Tracker successfully demonstrates the design and deployment of a fully functional cloud-hosted low-code application using Zoho Creator.  
 
-Placement preparation groups
-
-Academic institutions
-
-Individual learners tracking self-performance
-
-📌 Future Enhancements
-
-Integration with Codeforces / LeetCode APIs
-
-Automated ranking fetch
-
-AI-based performance prediction
-
-Email performance reports
-
-Exportable analytics (PDF/Excel)
-
-Multi-user authentication with role-based access
-
-📎 Conclusion
-
-The Contest Performance Tracker demonstrates how a low-code platform like Zoho Creator can be leveraged to build a structured, analytics-driven performance monitoring system.
-
-It highlights the ability to design scalable data models, automate workflows, and generate meaningful insights — making it a practical solution for competitive programming performance management
+It provides a scalable and structured solution for tracking competitive programming performance and showcases practical implementation of modern SaaS-based development platforms.
