@@ -26,6 +26,8 @@ Forms Created:
 ##  Live Application Link
 https://creatorapp.zoho.in/tharun2410649_ssn/contest-performance-tracker/
 
+Note: The live application requires Zoho login access. Screenshots above demonstrate the complete functionality of the application.
+
 ##  Screenshots
 (Screenshots attached below)
 ## Dashboard
