@@ -26,5 +26,16 @@ Forms Created:
 ##  Live Application Link
 https://creatorapp.zoho.in/tharun2410649_ssn/contest-performance-tracker/
 
-## 📷 Screenshots
+##  Screenshots
 (Screenshots attached below)
+## Dashboard
+![Dashboard](dashboard.png)
+
+## Contest Participation Form
+![Form](form.png)
+
+## Reports
+![Reports](reports.png)
+
+## Performance Trends
+![Trend](trend.png)
