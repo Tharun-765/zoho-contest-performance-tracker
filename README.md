@@ -15,6 +15,14 @@ This application is developed using Zoho Creator platform to track contest parti
 - Deluge Scripting
 - Built-in Reports & Analytics
 
+##  Database Structure
+Forms Created:
+- Contest Participation
+- Contest Preparation
+- Past Contest Performance
+- Performance Trend
+- Participants
+
 ##  Live Application Link
 https://creatorapp.zoho.in/tharun2410649_ssn/contest-performance-tracker/
 
